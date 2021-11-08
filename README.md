@@ -33,5 +33,24 @@ So the number of people who are eligible for this mentorship program is 1,549; a
 ![mentorship elegibility](https://user-images.githubusercontent.com/90433064/140676305-a5937a38-bb02-4a5c-beb0-dce78dc1263c.png)
 
 **Summary**: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+**How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
+
+As we previously said, as a result of the query that we made, grouping the employees about to retire, per title in the company, we could see that the company will need to supply 90,398 positions, detailed as follows:
+
+  -	29414.- Senior Engineer
+  -	28254.- Senior Staff
+  -	14222.- Engineer
+  -	12243.- Staff
+  -	4502.- Technique Leader
+  -	1761.- Assistant Engineer
+  -	2.- Manager
+
+As a suggestion, it’s critical to have a transition plan specially on the first two categories of titles, since it’s a considerable number of people who are retiring and their work need to be covered.
+Besides, there are 2 manager roles that need to be filled as well, which it would be crucial for their correspondent team. 
+
+**Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
+
+Definitely, it will be enough since the number of people eligible to receive the mentoring program are only 1,529 vs the 90,398 people ready to be retired and certainly many of them willing to mentor the next generation of the company. In this case it would be a good idea to take into account for the company, to expand the criteria of eligibility to receive the mentorship program with at least one or two more generations of employees, because if the mentorship will focus only in people born in 1965, in 10 years the company will have the same problem. So we could prepare a new query looking for people elegible from two more generations that could be those who were born in 1970, and the second generations could be who were born in 1975. In this way, the company would prevent to have another big impact on the production due to a future retirement tsunami.
+
+But actually another criteria to take into account on the eligibility for the mentorship program, could be the position instead of the birthdate. Based on this criteria, the company qould incentive the skills and the loyalty of the people to the company, not only the age. Which would bring more benefits for allm incluiding the company itself. Se we could prepare a query looking for the people in the next position after those who are about to retire. 
